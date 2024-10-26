@@ -368,7 +368,7 @@ output "lb_dns_name" {
 
 
 resource "aws_s3_bucket" "example" {
-  bucket = "pipleinbucket0088bdhuwtrrrrf3t5hd8e8r"
+  bucket = "myownnewbuck01"
 }
 
 
